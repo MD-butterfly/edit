@@ -1,0 +1,679 @@
+﻿[
+    {
+      "key": "hipy_js_爱看机器人",
+      "name": "爱看机器人0",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 52,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/爱看机器人.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 1
+    },
+    {
+      "key": "hipy_js_厂长资源",
+      "name": "厂长资源0",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "order_num": 121,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/厂长资源.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 2
+    },
+    {
+      "key": "hipy_js_360影视",
+      "name": "360影视",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "order_num": 15,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/360影视.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 3
+    },
+    {
+      "key": "hipy_js_996影视",
+      "name": "996影视(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 16,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/996影视.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 4
+    },
+    {
+      "key": "hipy_js_优酷",
+      "name": "优酷(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 17,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/优酷.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 5
+    },
+    {
+      "key": "hipy_js_哔哩影视",
+      "name": "哔哩影视(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 19,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/哔哩影视.js?render=1",
+      "isActive": true,
+
+      "status": true,
+      "id": 6
+    },
+    {
+      "key": "hipy_js_奇珍异兽",
+      "name": "奇珍异兽(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 20,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/奇珍异兽.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 7
+    },
+    {
+      "key": "hipy_js_百忙无果",
+      "name": "百忙无果(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 21,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/百忙无果.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 8
+    },
+    {
+      "key": "hipy_js_腾云驾雾",
+      "name": "腾云驾雾(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 22,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/腾云驾雾.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 9
+    },
+    {
+      "key": "hipy_js_荐片",
+      "name": "荐片(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 23,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/荐片.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 10
+    },
+    {
+      "key": "hipy_js_菜狗",
+      "name": "菜狗(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 24,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/菜狗.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 11
+    },
+
+    {
+      "key": "hipy_js_酷云77",
+      "name": "酷云77(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 53,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/酷云77.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 12
+    },
+    {
+      "key": "hipy_js_在线之家",
+      "name": "在线之家(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 54,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/在线之家.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 13
+    },
+    {
+      "key": "hipy_js_兔小贝",
+      "name": "兔小贝(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "order_num": 55,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/兔小贝.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 14
+    },
+    {
+      "key": "hipy_js_555影视[飞]",
+      "name": "555影视[飞](drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 56,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/555影视[飞].js",
+      "isActive": true,
+
+      "status": true,
+      "id": 15
+    },
+    {
+      "key": "hipy_js_豆瓣",
+      "name": "豆瓣(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 57,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/豆瓣.js?render=1",
+      "isActive": true,
+
+      "status": true,
+      "id": 16
+    },
+
+    {
+      "key": "hipy_js_耐看",
+      "name": "耐看(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "order_num": 122,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/耐看.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 17
+    },
+    {
+      "key": "hipy_js_暴风资源",
+      "name": "暴风资源(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "order_num": 131,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/暴风资源.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 18
+    },
+    {
+      "key": "hipy_js_白嫖影视",
+      "name": "白嫖影视(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 132,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/白嫖影视.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 19
+    },
+    {
+      "key": "hipy_js_花子动漫",
+      "name": "花子动漫(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "order_num": 133,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/花子动漫.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 20
+    },
+    {
+      "key": "hipy_js_卧龙资源",
+      "name": "卧龙资源(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "order_num": 135,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/卧龙资源.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 21
+    },
+    {
+      "key": "hipy_js_LIBVIO",
+      "name": "LIBVIO(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 137,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/LIBVIO.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 22
+    },
+    {
+      "key": "hipy_js_量子资源",
+      "name": "量子资源(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "order_num": 138,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/量子资源.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 23
+    },
+    {
+      "key": "hipy_js_农民影视3",
+      "name": "农民影视3(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 139,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/农民影视3.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 24
+    },
+    {
+      "key": "hipy_js_金鹰资源",
+      "name": "金鹰资源(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "order_num": 141,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/金鹰资源.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 25
+    },
+    {
+      "key": "hipy_js_南瓜影视",
+      "name": "南瓜影视(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 143,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/南瓜影视.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 26
+    },
+    {
+      "key": "hipy_js_极速资源",
+      "name": "极速资源(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "order_num": 145,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/极速资源.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 27
+    },
+    {
+      "key": "hipy_js_我的哔哩传参",
+      "name": "我的哔哩传参(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 146,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/我的哔哩传参.js?type=url&params=.https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/json/小学教育.json",
+      "isActive": true,
+
+      "status": true,
+      "id": 28
+    },
+    {
+      "key": "hipy_js_白嫖者联盟",
+      "name": "白嫖者联盟(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "order_num": 147,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/白嫖者联盟.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 29
+    },
+    {
+      "key": "hipy_js_极客资源",
+      "name": "极客资源(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "order_num": 148,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/极客资源.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 30
+    },
+    {
+      "key": "hipy_js_大米星球",
+      "name": "大米星球(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 149,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/大米星球.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 31
+    },
+    {
+      "key": "hipy_js_6V新版[磁]",
+      "name": "6V新版[磁](drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 150,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/6V新版[磁].js",
+      "isActive": true,
+
+      "status": true,
+      "id": 32
+    },
+    {
+      "key": "hipy_js_777影视",
+      "name": "777影视(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 152,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/777影视.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 33
+    },
+    {
+      "key": "hipy_js_可可影视",
+      "name": "可可影视(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 153,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/可可影视.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 34
+    },
+    {
+      "key": "hipy_js_榜一短剧",
+      "name": "榜一短剧(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "order_num": 154,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/榜一短剧.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 35
+    },
+    {
+      "key": "hipy_js_大米星球[V2]",
+      "name": "大米星球[V2](drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 155,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/大米星球[V2].js",
+      "isActive": true,
+
+      "status": true,
+      "id": 36
+    },
+    {
+      "key": "hipy_js_voflix",
+      "name": "voflix(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 156,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/voflix.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 37
+    },
+    {
+      "key": "hipy_js_量子影视",
+      "name": "量子影视(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 157,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/量子影视.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 38
+    },
+    {
+      "key": "hipy_js_我的哔哩",
+      "name": "我的哔哩(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 158,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/我的哔哩.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 39
+    },
+    {
+      "key": "hipy_js_网飞猫",
+      "name": "网飞猫(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 159,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/网飞猫.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 40
+    },
+    {
+      "key": "hipy_js_非凡资源",
+      "name": "非凡资源(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "order_num": 160,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/非凡资源.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 41
+    },
+    {
+      "key": "hipy_js_索尼资源",
+      "name": "索尼资源(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "order_num": 161,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/索尼资源.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 42
+    },
+    {
+      "key": "hipy_js_新片场",
+      "name": "新片场(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 190,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/新片场.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 43
+    },
+    {
+      "key": "hipy_js_cokemv",
+      "name": "cokemv(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 191,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/cokemv.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 44
+    },
+    {
+      "key": "hipy_js_TVB云播",
+      "name": "TVB云播(drpy_t3)",
+      "type": 3,
+      "api": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_libs/drpy2.min.js",
+      "search": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 192,
+      "ext": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/edit/main/drpy_js/TVB云播.js",
+      "isActive": true,
+
+      "status": true,
+      "id": 45
+    }
+  ]
